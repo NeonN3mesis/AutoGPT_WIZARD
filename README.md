@@ -41,3 +41,8 @@ chmod +x wizard.sh
 - After the installation process completes, AutoGPT will automatically start running.
 
 ### By following these steps, you'll have AutoGPT up and running on your Windows machine using WSL2 and Ubuntu.
+
+
+#### License
+
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/NeonN3mesis/AGPT_WIZARD/blob/main/LICENSE) file for details.
