@@ -18,7 +18,7 @@ This guide provides step-by-step instructions for setting up AutoGPT on Windows 
 - Right-click and copy the file.
 
 #### 4. Access Ubuntu's Home Directory in File Explorer
-- In the Ubuntu terminal, type `explorer.exe .`
+- In the Ubuntu terminal, type `explorer.exe .` (The second . is very important)
 - This command opens Windows File Explorer in the Ubuntu home directory.
 
 #### 5. Prepare the Installation Script
@@ -31,6 +31,7 @@ chmod +x wizard.sh
 ./wizard.sh
 ```
 - This will make the script executable and then run it.
+- When prompted, answer the questions.
 
 #### 7. Enter Your API Key
 - During the script execution, you'll be prompted to enter your OpenAI API key. Please enter it when prompted.
