@@ -31,8 +31,11 @@ chmod +x wizard.sh
 ./wizard.sh
 ```
 - This will make the script executable and then run it.
+
 #### 7. Enter Your API Key
 - During the script execution, you'll be prompted to enter your OpenAI API key. Please enter it when prompted.
+- [Instructions for getting a paid API Key](https://docs.agpt.co/autogpt/setup/#getting-an-openai-api-key)
+
 #### 8. AutoGPT Runs
 - After the installation process completes, AutoGPT will automatically start running.
 
